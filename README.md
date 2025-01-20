@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I’m Chuba, a software engineer with a love for building cool apps and crafting pixel-perfect UIs. I transitioned from engineering cars to engineering clean, scalable code. ⚙️✨<br>Fun Fact: My life motto: “Always push for pole position—on and off the track.”
+Hey there! I’m Chuba, a software engineer with a love for building cool apps and crafting pixel-perfect UIs. I transitioned from engineering cars to engineering clean, scalable code. ⚙️✨
 
 
 ## 🌐 Socials:
