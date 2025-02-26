@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I’m Chuba, a software engineer with a love for building cool apps and crafting pixel-perfect UIs. I transitioned from engineering cars to engineering clean, scalable code. ⚙️✨
+Hi, I'm Chuba – a web developer who transitioned from the field of automotive engineering into creating digital experiences that matter. I build solutions that truly connect with users, and when I'm not coding, I enjoy watching F1 racing. ⚙️✨
 
 
 ## 🌐 Socials:
